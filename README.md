@@ -1,4 +1,4 @@
-GPT-2 From Scratch 🚀
+# GPT-2 From Scratch 🚀
 
 A project where I implemented GPT-2 (124M) from scratch, fine-tuned it for Spam classification, and performed instruction fine-tuning to create a lightweight personal assistant.
 
